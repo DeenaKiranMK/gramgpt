@@ -1,0 +1,17 @@
+[
+    {
+      "aadhaar": "123456789012",
+      "pm_kisan": true,
+      "ujjwala": false,
+      "ayushman": true,
+      "last_updated": "2025-04-25"
+    },
+    {
+      "aadhaar": "987654321098",
+      "pm_kisan": false,
+      "ujjwala": true,
+      "ayushman": true,
+      "last_updated": "2025-04-21"
+    }
+  ]
+  

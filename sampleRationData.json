@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "farmer_name": "Ravi Kumar",
+      "aadhaar": "123456789012",
+      "family_size": 4,
+      "ration_type": "BPL",
+      "last_received": "2025-04-20"
+    },
+    {
+      "id": 2,
+      "farmer_name": "Sita Devi",
+      "aadhaar": "987654321098",
+      "family_size": 5,
+      "ration_type": "APL",
+      "last_received": "2025-04-22"
+    }
+  ]
+  
